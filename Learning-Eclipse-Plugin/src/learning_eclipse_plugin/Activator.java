@@ -5,6 +5,7 @@ import org.eclipse.ui.plugin.AbstractUIPlugin;
 import org.osgi.framework.BundleContext;
 
 /**
+ * @author akash_malik
  * The activator class controls the plug-in life cycle
  */
 public class Activator extends AbstractUIPlugin {
